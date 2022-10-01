@@ -14,6 +14,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.wetrade.R
+import com.wetrade.ui.theme.White
 
 @Composable
 fun RoundedClickableBox(
@@ -48,10 +49,10 @@ fun RoundedClickableBox(
                 IconButton(modifier = Modifier.size(16.dp), onClick = iconButtonOnClick, content = {
                     Icon(
                         painter = painterResource(id = R.drawable.ic_baseline_expand_more),
-                        contentDescription = null
+                        contentDescription = null,
+                        tint = White
                     )
-                }
-                )
+                })
             }
         }
     }
