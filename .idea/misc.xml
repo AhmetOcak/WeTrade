@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_baseline_expand_more.xml" value="0.264" />
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_home_illos.xml" value="0.269" />
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_home_jblu.xml" value="0.3705" />
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_home_mar.xml" value="0.3705" />
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_login_bg.xml" value="0.3705" />
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_logo.xml" value="0.2705" />
+        <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/drawable/ic_welcome_bg.xml" value="0.3705" />
         <entry key="..\:/Users/ahmet/WeTrade/app/src/main/res/font/f.xml" value="0.39895833333333336" />
       </map>
     </option>
